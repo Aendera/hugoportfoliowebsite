@@ -1,4 +1,4 @@
-baseURL = 'http://www.selenedeployment.com/'
+baseURL = 'https://www.selenedeployment.com/'
 languageCode = 'en-us'
 title = 'Romain´s Portfolio'
 theme = "basic"
