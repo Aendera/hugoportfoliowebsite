@@ -1,0 +1,7 @@
+baseURL = 'http://www.romanartificer.com/'
+languageCode = 'en-us'
+title = 'Romain´s Portfolio'
+theme = "basic"
+author = "Romain"
+description = "My portfolio site"
+googleAnalytics = "UA-xxxxxxxxxxxx"
